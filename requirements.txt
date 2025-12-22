@@ -1,1 +1,6 @@
-requirements.txt
+flask
+pandas
+numpy
+scikit_learn
+joblib
+matplotlib
